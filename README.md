@@ -17,11 +17,8 @@
 
 ##№ Учебные проекты
 1. Сайт строительной компании из курса ITDoctor:
-
-   [тык](https://github.com/ArlenMor/Site-layout-1)
+   -> [тык](https://github.com/ArlenMor/Site-layout-1)
 2. Сайт из курса MaxGraph. Для понимания основ:
-
-   [жмяк](https://github.com/ArlenMor/Site-layout-3)
+   -> [жмяк](https://github.com/ArlenMor/Site-layout-3)
 3. Корпоративный сайт из курса MaxGraph. Чуть-чуть js, немного анимаций, много практики.
-
-   [клац](https://github.com/ArlenMor/Site-layout-4)
+   -> [клац](https://github.com/ArlenMor/Site-layout-4)
